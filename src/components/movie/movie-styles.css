@@ -1,0 +1,31 @@
+.movie {
+    width: 350px;
+    height: auto;
+}
+.movie__image {
+    width: 330px;
+    height: 460px;
+    margin: 0 auto;
+}
+.movie__image-poster {
+    width: 100%;
+    height: 100%;
+}
+.movie__description {
+    padding-bottom: 40px;
+}
+.movie__description-title {
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+.movie__description-text {
+    font-size: 14px;
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    text-align: justify;
+    line-height: 22px;
+    font-style: italic;
+}
